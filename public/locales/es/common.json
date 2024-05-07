@@ -55,7 +55,7 @@
   "delete": "Borrado",
   "files": "Ficheros",
   "auth": "Autenticación",
-  "search-description": "Introduce un ID de nostr (npub, nprofile, note, nevent o naddr), nostr address (tony@habla.news) o una URL con un ID de nostr para verlo en Habla.",
+  "search-description": "Introduce un ID de nostr (npub, nprofile, note, nevent o naddr), nostr address (tony@blogstr.luvnft.com) o una URL con un ID de nostr para verlo en Habla.",
   "search-more": "Los hashtags están soportados, escribe una # delante de una palabra para filtrar por hashtag.",
   "search-placeholder": "URL, ID de nostr o nostr address",
   "search-communities-placeholder": "Search for communities",

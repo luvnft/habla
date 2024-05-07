@@ -18,9 +18,9 @@ export default function NotePage() {
   const { note } = router.query;
   const id = decodeNote(note);
 
-  const url = `https://habla.news/n/${note}`;
+  const url = `https://blogstr.luvnft.com/n/${note}`;
   const metadata = {
-    title: t("habla"),
+    title: t("Blogstr"),
     summary: t("tagline"),
   };
 

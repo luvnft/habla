@@ -55,7 +55,7 @@
   "delete": "削除",
   "files": "ファイル",
   "auth": "認証",
-  "search-description": "nostr ID（npub、nprofile、note、neventまたはnaddr）、nostr アドレス（tony@habla.news）、またはnostr IDを持つURLを貼り付けると、Hablaでそれを見ることができます。",
+  "search-description": "nostr ID（npub、nprofile、note、neventまたはnaddr）、nostr アドレス（tony@blogstr.luvnft.com）、またはnostr IDを持つURLを貼り付けると、Hablaでそれを見ることができます。",
   "search-more": "ハッシュタグはサポートされています。ハッシュタグで活用するには、キーワードの前に # を入力してください。",
   "search-placeholder": "URL、nostr ID、nostrアドレス、またはハッシュタグ",
   "search-communities-placeholder": "Search for communities",

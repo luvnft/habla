@@ -11,7 +11,7 @@ const Address = dynamic(() => import("@habla/components/nostr/Address"), {
 
 export default function FAQ() {
   const { t } = useTranslation("common");
-  const url = "https://habla.news/faq";
+  const url = "https://blogstr.luvnft.com/faq";
   const metadata = {
     title: t("faq"),
     summary: t("faq-summary"),

@@ -14,7 +14,7 @@ export default function SettingsPage() {
   };
   return (
     <>
-      <Metadata url="https://habla.news/settings" metadata={metadata} />
+      <Metadata url="https://blogstr.luvnft.com/settings" metadata={metadata} />
       <Layout>
         <Settings />
       </Layout>

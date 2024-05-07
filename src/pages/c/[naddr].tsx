@@ -20,7 +20,7 @@ export default function Community({ metadata }) {
   const router = useRouter();
   const { naddr } = router.query;
   const { title, summary, image } = metadata ?? {
-    title: "Habla",
+    title: "Blogstr",
     summary: "Speak your mind",
   };
   const { kind, identifier, pubkey, relays } = decodeNaddr(naddr) ?? {};

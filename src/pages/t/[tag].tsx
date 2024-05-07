@@ -12,7 +12,7 @@ export default function TagPage() {
   const router = useRouter();
   const { tag } = router.query;
 
-  const url = `https://habla.news/t/${tag}`;
+  const url = `https://blogstr.luvnft.com/t/${tag}`;
   const metadata = {
     title: `#${tag}`,
   };

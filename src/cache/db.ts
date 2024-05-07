@@ -15,7 +15,7 @@ export class HablaDatabase extends Dexie {
   relayMetadata!: Table<RelayMetadata>;
 
   constructor() {
-    super("habla.news");
+    super("blogstr.luvnft.com");
     this.version(3).stores({
       relayMetadata:
         "id,name,description,pubkey,contact,supported_nips,software,version",

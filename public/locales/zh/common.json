@@ -55,7 +55,7 @@
   "delete": "刪除",
   "files": "文件",
   "auth": "認證",
-  "search-description": "粘贴 nostr ID （npub、nprofile、note、nevent 或 naddr）、nostr 地址（tony@habla.news）或含有 nostr ID 的链接以在 Habla 中呈现。",
+  "search-description": "粘贴 nostr ID （npub、nprofile、note、nevent 或 naddr）、nostr 地址（tony@blogstr.luvnft.com）或含有 nostr ID 的链接以在 Habla 中呈现。",
   "search-more": "支持主题标签，在主题标签前使用#以按主题标签筛选。",
   "search-placeholder": "URL、 nostr ID、 nostr 地址或主题标签",
   "search-communities-placeholder": "搜索社区",

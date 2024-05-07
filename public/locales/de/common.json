@@ -55,7 +55,7 @@
   "delete": "Löschen",
   "files": "Dateien",
   "auth": "Authentifizierung",
-  "search-description": "Füge eine Nostr-ID (npub, nprofile, nevent oder naddr), Nostr-Adresse (tony@habla.news) oder eine URL mit einer Nostr-ID ein, um sie in Habla zu sehen.",
+  "search-description": "Füge eine Nostr-ID (npub, nprofile, nevent oder naddr), Nostr-Adresse (tony@blogstr.luvnft.com) oder eine URL mit einer Nostr-ID ein, um sie in Habla zu sehen.",
   "search-more": "Hashtags werden unterstützt, setze ein # vor einen Begriff, um nach Hashtags zu filtern.",
   "search-placeholder": "URL, Nostr-ID oder Nostr-Adresse",
   "search-communities-placeholder": "Nach Communities suchen",

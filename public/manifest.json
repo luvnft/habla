@@ -4,8 +4,8 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Habla",
-  "short_name": "Habla",
+  "name": "Blogstr",
+  "short_name": "Blogstr",
   "description": "Speak your mind",
   "icons": [
     {

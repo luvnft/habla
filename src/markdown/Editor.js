@@ -163,7 +163,7 @@ function PublishModal({
       }
       if (!isDraft && !ndkEvent.tagValue("alt")) {
         link = articleLink(ndkEvent);
-        const altText = `This is a long form article, you can read it in https://habla.news${link}`;
+        const altText = `This is a long form article, you can read it in https://blogstr.luvnft.com${link}`;
         ndkEvent.tags.push([
           "alt",
           summary?.length > 0 ? `${summary}\n\n${altText}` : altText,
@@ -256,7 +256,7 @@ function PublishModal({
                 textDecoration="underline"
                 textDecorationStyle="dotted"
               >
-                <Link href={link}>{`habla.news${link}`}</Link>
+                <Link href={link}>{`blogstr.luvnft.com${link}`}</Link>
               </Text>
             )}
           </Stack>
@@ -489,7 +489,7 @@ export default function EventEditor({ event, showPreview }) {
           textDecorationStyle="dotted"
         >
           <Link href={`/${handle}/${slug}`}>
-            {`habla.news/${handle}/${slug}`}
+            {`blogstr.news/${handle}/${slug}`}
           </Link>
         </Text>
       )}
@@ -500,7 +500,7 @@ export default function EventEditor({ event, showPreview }) {
           textDecorationStyle="dotted"
         >
           <Link href={`/u/${profile.nip05}/${slug}`}>
-            {`habla.news/u/${profile.nip05}/${slug}`}
+            {`blogstr.luvnft.com/u/${profile.nip05}/${slug}`}
           </Link>
         </Text>
       )}

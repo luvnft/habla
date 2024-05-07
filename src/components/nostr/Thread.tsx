@@ -21,7 +21,7 @@ export default function Thread({ anchor }) {
         user={npub}
         relays={defaultRelays.join(',')}
         disable="likes,zaps"
-        urls="naddr:habla.news/a/,npub:habla.news/p/,nprofile:habla.news/p/,nevent:habla.news/e/,note:habla.news/n/,tag:habla.news/t/"
+        urls="naddr:blogstr.luvnft.com/a/,npub:blogstr.luvnft.com/p/,nprofile:blogstr.luvnft.com/p/,nevent:blogstr.luvnft.com/e/,note:blogstr.luvnft.com/n/,tag:blogstr.luvnft.com/t/"
       />
     </Box>
   );
